@@ -35,6 +35,7 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 ---
 
 ## Schedule & Resources
+### Beginning of Gold Level ###
 ### <u>*Day 1-10*</u>
 ***What is Internet*** - The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
@@ -147,6 +148,8 @@ Learning a Language is not so easy and it's need practise and consistency. So ju
 
 <br>
 
+### Beginning of Platinum Level ###
+
 ***Learn Basics of Web Framework*** - Backend web frameworks are tools that provide a set of libraries and functions that make it easier to build and run web applications. They provide a structure for developing web applications and help to handle the underlying technical details so that you can focus on building the features of your application.
 
 **Popular Web Frameworks :**
@@ -217,4 +220,5 @@ Here you have some knowledge of tech skills needed for building full-stack web a
 This is just a drop in ocean there is much more to learn for becoming a full-stack developer.\
 This is definetly time taking process to learn these many and don't be in hurry learning quickly. Understand first then try to execute.\
 Have any doubts can reach us anytime.
+
 
